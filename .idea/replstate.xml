@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1411056467604">{:repl-history {:ide [], :local [&quot;(import org.openqa.selenium.better_firefox.FirefoxDriver)&quot; &quot;(import org.openqa.selenium.firefox.FirefoxDriver)&quot; &quot;(org.openqa.selenium.firefox.FirefoxDriver.)&quot; &quot;(org.openqa.selenium.better_firefox.FirefoxDriver.)&quot; &quot;(FirefoxDriver.)&quot; &quot;(FirefoxProfile. (clojure.java.io/file \&quot;/Users/zh217/sparking/xxxx\&quot;))&quot; &quot;(FirefoxProfile. (clojure.java.io/file \&quot;/Users/zh217/sparkling/xxxx\&quot;))&quot; &quot;(FirefoxDriver. *1)&quot;], :remote []}}</component>
+</project>
+
